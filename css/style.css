@@ -347,31 +347,31 @@ a.btn:hover {
 .main {
   min-height: 100vh;
   text-align: center;
-  background: url(".../img/main/01.svg") 50% 50%/cover no-repeat fixed;
+  background: url("../img/main/01.svg") 50% 50%/cover no-repeat fixed;
 }
 
 .living {
   min-height: 100vh;
   text-align: center;
-  background: url(".../img/living/01.svg") 50% 50%/cover no-repeat fixed;
+  background: url("../img/living/01.svg") 50% 50%/cover no-repeat fixed;
 }
 
 .flowers {
   min-height: 100vh;
   text-align: center;
-  background: url(".../img/flowers/01.svg") 50% 50%/cover no-repeat fixed;
+  background: url("../img/flowers/01.svg") 50% 50%/cover no-repeat fixed;
 }
 
 .capturing {
   min-height: 100vh;
   text-align: center;
-  background: url(".../img/capturing/01.svg") 50% 50%/cover no-repeat fixed;
+  background: url("../img/capturing/01.svg") 50% 50%/cover no-repeat fixed;
 }
 
 .looking {
   min-height: 100vh;
   text-align: center;
-  background: url(".../img/looking/01.svg") 50% 50%/cover no-repeat fixed;
+  background: url("../img/looking/01.svg") 50% 50%/cover no-repeat fixed;
 }
 
 .start {
