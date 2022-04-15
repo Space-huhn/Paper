@@ -38,7 +38,7 @@ function closeMenuAfterClick() {
             if (hederMenu.classList.contains('active')) {
                 hederMenu.classList.remove('active');
                 burgerElement.classList.remove('active');
-                bodyScrollLook.classList.remove('active');
+                bodyScrollLook.classList.remove('scroll-look');
             }
         })
     });
